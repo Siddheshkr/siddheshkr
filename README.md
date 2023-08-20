@@ -10,14 +10,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itssiddhesh) 
 
+- 🔭 I’m currently working on **Frontend Dev.**
 - 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itssiddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssiddhesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddheshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddheshkumar" height="30" width="40" /></a>
+<a href="https://instagram.com/siddhesh_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhesh_singh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/siddheshkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddheshkr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/siddheshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddheshkr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddheshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddheshkr" height="30" width="40" /></a>
@@ -48,8 +49,9 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
- 
- 
+
+
+
 
 
 
