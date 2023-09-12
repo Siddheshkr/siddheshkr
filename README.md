@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itssiddhesh) 
 
-- 🔭 I’m currently working on **Frontend Dev.**
-- 🌱 I’m currently learning **Javascript** & **TailwindCSS**
+- 🔭 I’m currently working on **Frontend Dev. & DSA** #100DaysOfCode
+- 🌱 I’m currently learning **Javascript** 
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
