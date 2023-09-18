@@ -15,12 +15,12 @@
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
 
-- 👨🏻‍💻 I'm a self-taught passionate frontend developer from India 🇮🇳 
+- 👋🏻 I'm a self-taught passionate frontend developer from India 🇮🇳 
 - 🔭 I’m currently working on **Frontend Dev. & DSA** #100DaysOfCode
 - 🌱 I’m currently learning **Javascript & React.js** 
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
-<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px> Socials</h3>
+<h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3>
 <p align="left">
 <a href="https://twitter.com/itssiddhesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssiddhesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddheshkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddheshkumar" height="30" width="40" /></a>
