@@ -16,8 +16,8 @@
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
 
 - 👋🏻 I'm a self-taught passionate frontend developer from India 🇮🇳 
-- 🔭 I’m currently working on **Frontend Dev. & DSA** #100DaysOfCode
-- 🌱 I’m currently learning **Javascript & React.js** 
+- 🔭 I’m currently working on **Frontend Dev. & DSA** 
+- 🌱 I’m currently learning **Javascript & React.Js** 
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3>
