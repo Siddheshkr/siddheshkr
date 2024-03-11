@@ -58,7 +58,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkr&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br/>
 ![](https://github-readme-stats.vercel.app/api?username=siddheshkr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=siddheshkr&theme=dark&hide_border=true) 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Siddheshkr?border=0&radius=10theme=dark&font=Poppins)</br>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Siddheshkr?border=0&radius=10theme=dark&font=Poppins)](https://leetcode.com/Siddheshkr/)</br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
