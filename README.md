@@ -2,14 +2,19 @@
 <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Frontend+Developer;Open-Source+Enthusiast" alt="Headline" />
 </div>
-
 <p align="right">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+<div align=center>
+  
+[![Static Badge](https://img.shields.io/badge/My_Portfolio-darkred?style=plastic)](https://siddheshkr.netlify.app/)
+[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic)](https://drive.google.com/file/d/1hrsYyOL-EgGeIlxrSTWQABQ0ms6vn-6Q/view?usp=drive_link)
+</br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshkr" /> </p>
+[![Static Badge](https://img.shields.io/badge/Siddhesh_Kumar-black?style=social&logo=linkedin)](https://linkedin.com/in/siddheshkumar) 
+[![Static Badge](https://img.shields.io/badge/itssiddhesh-black?style=social&logo=x)](https://x.com/itssiddhesh) 
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itssiddhesh)
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
 
@@ -67,6 +72,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=plastic" alt="siddheshkr" /> </p>
 <p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
