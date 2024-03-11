@@ -1,7 +1,7 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Siddhesh</h1>
-<div align=center>
+<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Siddhesh <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<!-- <div align=center>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Frontend+Developer;Open-Source+Enthusiast" alt="Headline" />
-</div>
+</div> -->
 
 ![githubGIF](https://github.com/Siddheshkr/siddheshkr/assets/84951276/bf710155-b3f8-46e6-a1cc-03501324aa66)
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=flat" alt="siddheshkr" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkumar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itssiddhesh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddheshkumar) [![itssiddhesh](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itssiddhesh)
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
 
