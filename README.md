@@ -8,7 +8,7 @@
 <div align=center>
   
 [![Static Badge](https://img.shields.io/badge/My_Portfolio-darkred?style=plastic)](https://siddheshkr.netlify.app/)
-[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic)](https://drive.google.com/file/d/1hrsYyOL-EgGeIlxrSTWQABQ0ms6vn-6Q/view?usp=drive_link)
+[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic)](https://drive.google.com/file/d/1hrsYyOL-EgGeIlxrSTWQABQ0ms6vn-6Q/view?usp=sharing)
 </br>
 
 [![Static Badge](https://img.shields.io/badge/Siddhesh_Kumar-black?style=social&logo=linkedin)](https://linkedin.com/in/siddheshkumar) 
