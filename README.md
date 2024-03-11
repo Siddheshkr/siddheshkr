@@ -17,7 +17,7 @@
 
 - 👋🏻 I'm a self-taught passionate frontend developer from India 🇮🇳 
 - 🔭 I’m currently working on **Frontend Dev. & DSA** 
-- 🌱 I’m currently learning **Javascript & React.Js** 
+- 🌱 I’m currently learning **TypeScript & Next.js** 
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3>
