@@ -75,10 +75,13 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Siddheshkr?border=0&radius=10theme=dark&font=Poppins)](https://leetcode.com/Siddheshkr/)</br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshkr&theme=xcode"/>
 
 <p align="right">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=plastic" alt="siddheshkr" /> </p>
 <p align="center"">
