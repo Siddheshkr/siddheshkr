@@ -7,7 +7,7 @@
 <br>
 <div align=center>
   
-[![Static Badge](https://img.shields.io/badge/Portfolio-darkred?style=plastic&logo=alienware&logoColor=white)](https://siddheshkr.netlify.app/) &thinsp;
+[![Static Badge](https://img.shields.io/badge/Portfolio-darkred?style=plastic&logo=alienware&logoColor=white)](https://siddheshkr.vercel.app/) &thinsp;
 [![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1hrsYyOL-EgGeIlxrSTWQABQ0ms6vn-6Q/view?usp=sharing)
 </br>
 
