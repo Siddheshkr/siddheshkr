@@ -8,7 +8,7 @@
 <div align=center>
   
 [![Static Badge](https://img.shields.io/badge/Portfolio-darkred?style=plastic&logo=alienware&logoColor=white)](https://siddheshkr.vercel.app/) &thinsp;
-[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1hrsYyOL-EgGeIlxrSTWQABQ0ms6vn-6Q/view?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/Resume-darkgreen?style=plastic&logo=googledocs&logoColor=white)](https://drive.google.com/file/d/1AQv2-_8r29Z4yIYP2BhChFSeJKGckqZW/view?usp=sharing)
 </br>
 
 [![Static Badge](https://img.shields.io/badge/Siddhesh_Kumar-black?style=social&logo=linkedin)](https://linkedin.com/in/siddheshkumar) &thinsp;
