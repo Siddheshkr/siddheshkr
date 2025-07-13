@@ -18,9 +18,9 @@
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"> About Me </h3>
 
-- 👋🏻 I'm a self-taught passionate frontend developer from India 🇮🇳 
-- 🔭 I’m currently working on **Frontend Dev. & DSA** 
-- 🌱 I’m currently learning **TypeScript & Next.js** 
+- 👋🏻 I'm a self-taught passionate fullstack developer from India 🇮🇳 
+- 🔭 I’m currently working on **Fullstack Dev. & DSA** 
+- 🌱 I’m currently learning **Next.js** 
 - 📫 How to reach me **siddheshkr21@gmail.com**
 
 <h3 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width=50px>Socials</h3>
@@ -34,36 +34,10 @@
 </p>
 
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools</h3> 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,tailwind,js,ts,react,redux,next,nodejs,mongo,express,vscode,git,github,notion,vercel,materialui&perline=)](https://skillicons.dev)
+
+
 
 <p align="right">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -75,8 +49,9 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Siddheshkr?border=0&radius=10theme=dark&font=Poppins)](https://leetcode.com/Siddheshkr/)</br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshkr&theme=xcode"/>
+
+<!---<h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshkr&theme=xcode"/> -->
 
 <p align="right">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -84,10 +59,10 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddheshkr&label=Profile%20views&color=0e75b6&style=plastic" alt="siddheshkr" /> </p>
-<p align="center"">
+<!--<p align="center"">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
-
-
 <h3 align="center"> Show some ❤️ by starring ⭐ some of the repositories! </h3>
+
+
 
