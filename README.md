@@ -16,5 +16,5 @@
 
 - 🇮🇳 Full-stack developer from India
 - 💻 Building modern web and geospatial applications
-- 🛠️ Working with React, TypeScript, Node.js, and Python 
+- 🛠️ Working with React, Angular, TypeScript, Node.js, and Python 
 - 📫 Reach me at **[siddheshkr21@gmail.com](mailto:siddheshkr21@gmail.com)**
