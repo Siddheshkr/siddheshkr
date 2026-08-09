@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BE185D?logo=alienware&logoColor=fff)](https://siddheshkr.vercel.app/) [![Resume](https://img.shields.io/badge/Resume-15803D?logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1AQv2-_8r29Z4yIYP2BhChFSeJKGckqZW/view?usp=sharing) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/siddheshkumar) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/itssiddhesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a61f1f?logo=alienware&logoColor=fff)](https://siddheshkr.vercel.app/) [![Resume](https://img.shields.io/badge/Resume-15803D?logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1AQv2-_8r29Z4yIYP2BhChFSeJKGckqZW/view?usp=sharing) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/siddheshkumar) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/itssiddhesh)
 
 </div>
 <h3>
