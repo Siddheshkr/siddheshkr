@@ -18,4 +18,4 @@
 - 💻 Building modern web and geospatial applications
 - 🛠️ Working with React, Angular, TypeScript, Node.js, and Python 
 - 📫 Reach me at **[siddheshkr21@gmail.com](mailto:siddheshkr21@gmail.com)**
-https://www.siddheshkr.com
+
